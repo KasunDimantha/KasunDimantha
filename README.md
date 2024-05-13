@@ -8,7 +8,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Jaffna**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, SpringBoot, MySQL, React, NodeJs, MongoDB** 
 
 - 📫 How to reach me **kasundimantha97@gmail.com**
 
